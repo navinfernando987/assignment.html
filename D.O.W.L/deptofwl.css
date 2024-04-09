@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+h1{
+    color: white;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+p{
+    font-size: 20px;
+    color: bisque;
+    font-family: 'Playfair Display', serif;
+    padding-left: 50%;
+}
+
+.sect1{
+    background-image: url(monkey\ \(2\).jpg);
+    background-size: contain;
+    background-position: center left;
+    background-repeat: no-repeat;
+    font-family: 'Playfair Display', serif;
+}
+
+.sect2{
+    background-image: url(eagle.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    font-family: 'Playfair Display', serif;
+    background-position: left;
+}
+
+.sect3{
+    background-image: url(bird.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    font-family: 'Playfair Display', serif;
+    background-position: left;
+}
+
+.sect4{
+    background-image: url(makow.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    font-family: 'Playfair Display', serif;
+    background-position: left;
+}
+
+.sect5{
+    background-image: url(leo.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    font-family: 'Playfair Display', serif;
+    background-position: left;
+}
+
+
+main{
+    height: 100vh;
+    overflow-y: scroll;
+    scroll-snap-type:y mandatory;
+}
+
+main > section{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    scroll-snap-align: start;
+    scroll-snap-stop: always;
+}

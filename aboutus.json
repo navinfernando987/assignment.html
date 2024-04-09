@@ -1,0 +1,15 @@
+{
+    "body": {
+      "about-section": {
+        "inner-container": {
+          "h1": "About Us",
+          "text": "Welcome to our world of wildlife wonders! We are passionate advocates for the preservation and celebration of Earth's diverse and magnificent creatures. With a deep commitment to conservation, education, and sustainable practices, we strive to inspire a profound connection between people and the natural world. Through our initiatives, we aim to raise awareness about the importance of protecting biodiversity, fostering a harmonious coexistence between humans and wildlife. Join us on a journey of discovery, as we work tirelessly to ensure a future where every species thrives and our planet's rich tapestry of life endures for generations to come.",
+          "mission": {
+            "spans": ["Protect Wildlife", "Feel the Nature", "Love Animals"],
+            "contact": "Contact-cb014072@students.apiit.lk"
+          }
+        }
+      }
+    }
+  }
+  

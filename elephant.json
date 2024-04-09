@@ -1,0 +1,29 @@
+{
+    "body": {
+      "main": {
+        "sections": [
+          {
+            "class": "sectback",
+            "content": {
+              "row": {
+                "left": {
+                  "img": "./animals page/elephantpng.png"
+                },
+                "right": {
+                  "content": {
+                    "h1": "The Sri Lankan Elephant",
+                    "h2": "(elephas maximus)",
+                    "p": [
+                      "The Asian elephant is the largest land animal inhabiting the Asian Continent. Its young are nourished with milk and therefore they are classified as mammals. The adults of the species are herbivorous. The average lifespan of an elephant is approximately 60 years with the oldest on record being 80 years. Elephants also have the longest gestation period of all animals with conception to birth taking 22 months. Elephants by nature are social animals, with females and young living in herds.",
+                      "Typically, the oldest female leads the herd. Males leave the herd as they reach adolescence and live solitarily or in bull groups. The Asian elephant once roamed from Mesopotamia to East Asia, although presently they are native to only 13 countries in Asia. Due to the rapid reduction in their distribution and population size, elephants are listed as an endangered species."
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+  

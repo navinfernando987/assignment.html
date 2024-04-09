@@ -1,0 +1,29 @@
+{
+    "body": {
+      "main": {
+        "sections": [
+          {
+            "class": "sectback",
+            "content": {
+              "row": {
+                "left": {
+                  "img": "./animals page/slothbr.png",
+                  "class": ""
+                },
+                "right": {
+                  "content": {
+                    "h1": "Sri Lankan Sloth Bear",
+                    "h2": "(elursus ursinus)",
+                    "p": [
+                      "The sloth bear (Melursus ursinus) was originally classified as belonging to the sloth family (Megalonychidae and Bradypodidae) in the 1700s, thus named bear sloth. This error was not discovered until the first specimen of the bear was shipped to Europe from India in 1810. The bear sloth thus became the sloth bear. They are nocturnal species who set about their daily forage, as dusk begins to fall. The sloth bear is a shy and reclusive animal, and is only found in pairs during courting (breeding) or when one encounters a mother and cub. Occasionally, they are also found in pairs when there are seasonal bounties of rich food, as during the season when trees as 'Palu' and 'Weera' yield fruit. It is the only member of the bear family that carries the cub on its back. The sloth bear has to quench its thirst every night and cannot go on for prolonged periods of time without water. Sloth bears use a wide variety of facial expression and calls to communicate with one another. The subspecies Melursus ursinus inornatus is endemic to Sri Lanka."
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+  

@@ -1,0 +1,110 @@
+{
+    "body": {
+      "main": {
+        "sections": [
+          {
+            "class": "sectback",
+            "content": {
+              "row": {
+                "left": {
+                  "img": "./nparks/wilpattuwaentrance.jpg",
+                  "class": "backpic"
+                },
+                "right": {
+                  "content": {
+                    "h2": "Wilpattu National Park",
+                    "p": [
+                      "Wilpattu National Park is a prominent wildlife sanctuary located in the Northwest of Sri Lanka. Renowned for its diverse ecosystem and scenic landscapes, Wilpattu is the largest national park in the country, covering an extensive area of approximately 1,317 square kilometers. The park is characterized by its unique mix of natural habitats, including dense scrublands, open grassy plains, and pristine lakes. One of its distinctive features is the presence of 'villus,' or natural lakes, which attract a rich variety of wildlife.",
+                      "Wilpattu National Park is renowned for its population of Sri Lankan leopards, making it a prime destination for wildlife enthusiasts and photographers. In addition to leopards, the park is home to various other species such as elephants, sloth bears, spotted deer, crocodiles, and a diverse array of bird species. The park's relatively undisturbed environment provides a valuable haven for these creatures, contributing to the conservation of biodiversity in the region.",
+                      "Visitors to Wilpattu can explore its wilderness through guided safaris, offering the opportunity to witness the beauty of its flora and fauna in their natural habitat. The park's name, 'Wilpattu,' is derived from the ancient Villus (natural lakes) scattered across its terrain, creating a picturesque backdrop for the park's rich wildlife."
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "class": "sect1",
+            "content": {
+              "row": {
+                "left": {
+                  "img": "./nparks/scout.jpg",
+                  "class": ""
+                },
+                "right": {
+                  "content": {
+                    "h2": "Interesting facts about wilpattu...",
+                    "ul": [
+                      {
+                        "li": "Location and Size:",
+                        "p": "Wilpattu National Park is situated in the Northwestern part of Sri Lanka, covering a vast area of approximately 1,317 square kilometers. It is the largest national park in the country."
+                      },
+                      {
+                        "li": "Habitats:",
+                        "p": "The park is characterized by diverse ecosystems, including dense scrub jungles, open grassy plains, and natural lakes known as 'villus.' This variety of habitats supports a wide range of wildlife species."
+                      },
+                      {
+                        "li": "Wildlife:",
+                        "p": "Wilpattu is renowned for its wildlife, with a significant population of Sri Lankan leopards. Other notable species include elephants, sloth bears, spotted deer, crocodiles, and numerous bird species. The park's varied landscapes contribute to its importance for biodiversity conservation."
+                      },
+                      {
+                        "li": "Conservation Significance:",
+                        "p": "Wilpattu National Park plays a crucial role in the conservation of Sri Lanka's natural heritage. Its relatively undisturbed environment provides a safe haven for various species, contributing to the overall conservation efforts in the region."
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "class": "sect2",
+            "content": {
+              "row": {
+                "left": {
+                  "iframe": {
+                    "width": "600",
+                    "height": "450",
+                    "style": "border:0",
+                    "loading": "lazy",
+                    "allowfullscreen": true,
+                    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d252576.31067163384!2d79.87193664804005!3d8.450184972333156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3afdac7787e4bc27%3A0xcdd9a0715dad187c!2sWilpattu%20National%20Park!5e0!3m2!1sen!2slk!4v1705607398821!5m2!1sen!2slk"
+                  }
+                },
+                "right": {
+                  "content": {
+                    "h2": "Visit Wilpattu National Park...",
+                    "ul": [
+                      {
+                        "li": "Best known for:",
+                        "p": "Sloth bears,Red slender loris"
+                      },
+                      {
+                        "li": "Area covered:",
+                        "p": "1, 317 sqr kms"
+                      },
+                      {
+                        "li": "Distance from Colombo:",
+                        "p": "4 hours drive"
+                      },
+                      {
+                        "li": "Things to do:",
+                        "p": "Travel the ancient city of Anuradhapura, especially the the 2,000 year old sacred Bodhi tree"
+                      }
+                    ],
+                    "p": "Visit our website: ",
+                    "a": {
+                      "href": "https://www.wilpattunationalpark.com/",
+                      "target": "_blank",
+                      "content": "https://www.wilpattunationalpark.com/"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+  

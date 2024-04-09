@@ -1,0 +1,61 @@
+{
+    "main": {
+      "sections": [
+        {
+          "class": "sectback",
+          "content": {
+            "row": {
+              "left": {
+                "img": "./nparks/parkbackg.jpg",
+                "class": "backpic"
+              },
+              "right": {
+                "content": {
+                  "h1": "National Parks In Sri Lanka",
+                  "paragraphs": [
+                    "Sri Lanka boasts a remarkable array of national parks that showcase the country's rich biodiversity and stunning landscapes. Yala National Park, located in the southeast, is renowned for its diverse ecosystems, including dense jungles, scrublands, and coastal areas. The park is home to an impressive variety of wildlife, with a highlight being its high density of leopards, making it one of the best places in the world to spot these elusive big cats. Visitors to Yala can embark on safari tours, exploring the park's vibrant habitats and encountering elephants, sloth bears, crocodiles, and numerous bird species.",
+                    "Sri Lanka, a jewel in the Indian Ocean, is adorned with a collection of breathtaking national parks that showcase the country's incredible natural beauty and biodiversity. From the dense jungles of Yala to the ancient historical sites of Wilpattu and the pristine rainforests of Sinharaja, each national park offers a unique and immersive experience for nature enthusiasts and wildlife lovers. These protected areas not only serve as havens for diverse flora and fauna but also play a vital role in conservation efforts, preserving the island's ecological balance and cultural heritage.",
+                    "In this introduction to Sri Lanka's national parks, one discovers not only the intrinsic beauty of these protected areas but also the significant role they play in preserving the country's natural and cultural heritage. As visitors embark on journeys through these parks, they are immersed in the splendor of Sri Lanka's diverse landscapes and the delicate balance between human existence and the flourishing ecosystems that define these national treasures."
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "class": "sect1",
+          "card-container": [
+            {
+              "card": {
+                "img": "./nparks/yaala.webp",
+                "card-content": {
+                  "h3": "Yala national park",
+                  "p": "Yala National Park is a wildlife sanctuary located in the southeastern part of Sri Lanka. It is the second-largest national park in the country and is renowned for its rich biodiversity, particularly its population of leopards.",
+                  "link": {
+                    "href": "yala.html",
+                    "text": "Read more",
+                    "class": "btn"
+                  }
+                }
+              }
+            },
+            {
+              "card": {
+                "img": "./nparks/wilpattu.jpg",
+                "card-content": {
+                  "h3": "Wilpattu national park",
+                  "p": "Wilpattu National Park is another prominent national park in Sri Lanka, known for its diverse ecosystems and wildlife.",
+                  "link": {
+                    "href": "wilpattu.html",
+                    "text": "Read more",
+                    "class": "btn"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

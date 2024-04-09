@@ -1,0 +1,30 @@
+{
+    "body": {
+      "main": {
+        "sections": [
+          {
+            "class": "sectback",
+            "content": {
+              "row": {
+                "left": {
+                  "img": "./animals page/Slender Loris.png"
+                },
+                "right": {
+                  "content": {
+                    "h1": "The Red Slender Loris",
+                    "h2": "(eoris tardigradus)",
+                    "p": [
+                      "There are two distinct species of lorises in Sri Lanka: The grey slender loris (Loris lydekkerianus) and the red slender loris (Loris tardigradus). The latter is endemic to Sri Lanka, and both species have two subspecies according to the latest classifications.",
+                      "Loris lydekkerianus Loris lydekkerianus nordicus and Spp. Loris lydekkerianus grandis",
+                      "Lorises are slow climbing, nocturnal animals with large distinctive eyes. They are adapted to an arboreal lifestyle (a life among trees), which is assisted by skeletal specialisations such as highly mobile joints, large humerus, strong bones, equally long fore and hind limbs with super strong digits, and anatomical modifications such as a shortened tip of the ulna to the dimensions of a styloid process."
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+  

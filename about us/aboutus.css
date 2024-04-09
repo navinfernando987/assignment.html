@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans",sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #050404;
+}
+
+.about-section{
+    background: url(deer.jpg.jpg) no-repeat left;
+    background-size: 65%;
+    background-image: url(about\ us\ core.jpg);
+    overflow: hidden;
+    padding: 100px 0;
+}
+
+
+
+.inner-container{
+    width: 55%;
+    float: right;
+    background-color: rgb(48, 59, 72);
+    padding: 150px;
+}
+
+.inner-container h1{
+    color: aliceblue;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.text{
+    font-size: 20px;
+    color: aliceblue;
+    line-height: 30px;
+    text-align: justify;
+    margin-bottom: 40px;
+}
+
+.mission{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 700;
+    font-size: 17px;
+    color: aliceblue;
+}
+
+@media screen and (max-width:1200px){
+    .inner-container{
+        padding: 80px;
+    }
+}
+
+@media screen and (max-width:1000px){
+    .about-section{
+        background-size: 100%;
+        padding: 100px 40px;
+    }
+    .inner-container{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:600px){
+    .about-section{
+        padding: 0;
+    }
+    .inner-container{
+        padding: 60px;
+    }
+}
+
+nav{
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 20px 8%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav .logo{
+    width: 100px;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 40px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}

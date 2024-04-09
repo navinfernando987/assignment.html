@@ -1,0 +1,185 @@
+{
+    "main": {
+      "sections": [
+        {
+          "class": "sect1",
+          "content": {
+            "div": {
+              "h1": "The Sri Lankan Leopard"
+            }
+          }
+        },
+        {
+          "class": "sect2",
+          "content": {
+            "row": {
+              "left": {
+                "img": "./Sri lankan leopard/purdus.png"
+              },
+              "right": {
+                "content": {
+                  "h2": "Sri Lankan Leopard",
+                  "h2_1": "(Panthera pardus)",
+                  "p": [
+                    "The Leopard (Panthera pardus, Linnaeus, 1758) is the most secretive and elusive of the large carnivores, and also the shrewdest. Pound for pound, it is the strongest climber of the larger cats and is capable of killing prey far larger than itself. However, the leopard is the smallest member of the genus Panthera, which includes the Lion, Tiger and Jaguar. Historically, the leopard had a wide distribution across eastern and southern Asia and Africa, from Siberia to South Africa, with fragmented populations in the Indian subcontinent, Sri Lanka, Indochina, Malaysia, Indonesia and China. Sadly, the range has decreased radically due to over hunting and loss of habitat.",
+                    "After Linnaeus published his description of leopards in the Systema Naturae in 1758, as many as 27 subspecies of leopards were described within a period of 162 years (1794 to 1956), by various scientists.",
+                    "In 1996, according to genetic (DNA) analysis, nine subspecies are recognized; Panthera pardus pardus (Linnaeus, 1758): Africa, Panthera pardus nimr (Hemprich & Ehrenberg, 1833): Arabia, Panthera pardus saxicolor (Pocock, 1927): Central Asia, Panthera pardus melas (Cuvier, 1809): Java, Panthera pardus fusca (Meyer, 1794): Indian sub-continent, Panthera pardus delacourii (Pocock, 1930): southeast Asia into southern China, Panthera pardus japonensis (Gray, 1862): northern China, Panthera pardus orientalis (Schlegel, 1857): Russian Far East, Korean peninsula and north-eastern China and Panthera pardus kotiya (Deraniyagala, 1956): Sri Lanka, this subspecies is endemic to the island."
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "class": "sect3",
+          "content": {
+            "row": {
+              "left": {
+                "img": "./Sri lankan leopard/pexels-pixabay-62324.jpg"
+              },
+              "right": {
+                "content": {
+                  "h2": "Habitats of leopards in Sri Lanka",
+                  "p": [
+                    "Due to their flexibility concerning prey, Sri Lanka leopards inhabit both dense forests and srubland savannas. They are also found in montane rain forests in the central highlands (Horton plains) and tropical lowland rain forests (Sinharaja). This means, leopards occur in all three major climate and vegetation zones of the island: The highest numbers of Sri Lanka leopards can be found in the dry zone, where almost all wildlife parks are situated. This is the area of tropical mixed dry-zone forests and semi-arid scrub jungles in the north and east (Wilpattu and Yala). The reason for higher numbers of leopards in dry zone areas may simply be that they are less densely populated by humans and offer a higher density of prey. Sri Lanka’s  vegetation zone with the second largest leopard population is the hillcountry, where most of these big cats live outside national parks, since there is only one wildlife park in the highlands, namely Horton Plains. Due to the increasingly large population of Sambar deer in Horton Plains National Park, the number of leopards has risen in this area, although leopards are rarely seen be visitors, as the animals live hidden in the dense forests of Horton Plains. The very few leopards occuring in Sri Lanka’s wet zone inhabit only the Sinharaja rain forest reserve and immediate surroundings. They are almost never sighted by hikers in the Sinharaja sanctuary.",
+                    "First of all, Sri Lanka’s two largest national parks, Wilpattu and Yala, are famous for their leopard populations. The density is 0,179 individuals per square kilometres in Yala Block 1. Both Wilpattu and Yala are considered to be the areas of highest density of leopards in the entire world. Accordingly, both national parks offer better chances to spot them than any other region in Asia. However, chances to sight leopards on safaris in some parts of Africa are much better than in Sri Lanka, simply due to the natural setting and vegetation pattern: open grassland offers less hiding opportunities for the shy big cats.",
+                    "The extent of occurrence (EOO) of the Sri Lanka Llopard is estimated at 55% of the country’s land coverage. The area of occupancy (AOO) where reproductive adult leopards have been verified is 11,000 square kilometres, which corresponds to 17% of Sri Lanka’s land coverage. Depending on the density of prey, a single Sri Lanka leopard may claim a territory of about 50 square kilometers. The prey biomass available to leopards should be at least 7,000 kg/km²."
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "class": "sect4",
+          "content": {
+            "row": {
+              "left": {
+                "img": "./Sri lankan leopard/yaala.webp",
+                "class": ""
+              },
+              "right": {
+                "content": {
+                  "h3": "places to see and explore about leopards",
+                  "h2": "Yala National Park",
+                  "p": "Yala National Park (otherwise known as Ruhuna National Park) is one of Sri Lanka’s must-sees. Located to the south east of the island, this exceptional game reserve is Sri Lanka’s most popular for very good reason. Thought to be home to the greatest density of leopards per square kilometre in the world, Yala covers an area of 1,260 square kilometres and is divided into five blocks. Block I is the most visited portion of the reserve and the most rewarding destination for a leopard safari. Leopards are usually elusive, though in Yala, sightings of them are extremely good – you might see them basking in the sun atop rocky outcrops, in trees, crossing tracks and beside waterholes. Alongside leopards, there are also sloth bears, Asian elephants, deer, monkeys, buffalo and many species of birds. If you’re really set on seeing leopards, Yala will offer you Sri Lanka’s best opportunity."
+                }
+              }
+            }
+          }
+        },
+        {
+          "class": "sect5",
+          "content": {
+            "row": {
+              "left": {
+                "img": "./Sri lankan leopard/wilpattu.jpg",
+                "class": ""
+              },
+              "right": {
+                "content": {
+                  "h2": "Wilpattu National Park",
+                  "p": "Wilpattu National Park is in the north west of Sri Lanka, around 35km west of Anuradhapura and 32km north of Puttalam. It takes around 90-minutes to reach the reserve from Uga Ulagalla, and is around a 4-hour drive from Uga Residence in Colombo. From Wilpattu National Park’s main entrance at Hunuvilagama, the track weaves through beautiful lowland forest for around 10-kilometres before you reach the more open wildlife areas."
+                }
+              }
+            }
+          }
+        },
+        {
+          "class": "sect5",
+          "content": {
+            "row": {
+              "left": {
+                "img": "./Sri lankan leopard/sinaraja.webp",
+                "class": ""
+              },
+              "right": {
+                "content": {
+                  "h2": "Sinharaja Forest Reserve",
+                  "p": "Located in south-west Sri Lanka, Sinharaja is the country's last viable area of primary tropical rainforest. More than 60% of the trees are endemic and many of them are considered rare. There is much endemic wildlife, especially birds, but the reserve is also home to over 50% of Sri Lanka's endemic species of mammals and butterflies, as well as many kinds of insects, reptiles and rare amphibians."
+                }
+              }
+            }
+          }
+        },
+        {
+          "class": "sect6",
+          "content": {
+            "row": {
+              "left": {
+                "img": "./Sri lankan leopard/dead lep 2.jpg",
+                "class": ""
+              },
+              "right": {
+                "content": {
+                  "h3": "Threats to the Sri lankan Leopard",
+                  "ul": [
+                    {
+                      "li": "Habitat Loss and Fragmentation:",
+                      "p": "The conversion of natural habitats into agricultural land, urban areas, and infrastructure development leads to habitat loss and fragmentation. This limits the available space for leopards, disrupts their natural movements, and isolates populations."
+                    },
+                    {
+                      "li": "Human-Wildlife Conflict:",
+                      "p": "Encounters between leopards and humans can lead to conflicts, especially in areas where leopards prey on livestock. Retaliatory killings by farmers trying to protect their livestock can pose a significant threat to leopard populations."
+                    },
+                    {
+                      "li": "Poaching and Illegal Wildlife Trade:",
+                      "p": "Poaching for their skin, bones, and other body parts poses a threat to Sri Lankan leopards. Although the level of poaching may vary, it remains a concern for their conservation."
+                    },
+                    {
+                      "li": "Prey Availability:",
+                      "p": "The availability of natural prey is crucial for leopard survival. Changes in prey populations due to hunting, disease, or other factors can impact the leopard's ability to find sufficient food."
+                    },
+                    {
+                      "li": "Road Mortality:",
+                      "p": "Increased road networks, especially through leopard habitats, can lead to road mortality. Leopards may be hit by vehicles when attempting to cross roads, resulting in injuries or fatalities."
+                    },
+                    {
+                      "li": "Climate Change:",
+                      "p": "Changes in climate patterns can affect the availability of water and prey, influencing the distribution and behavior of leopards. Climate change can also lead to alterations in vegetation and impact overall ecosystem health."
+                    },
+                    {
+                      "li": "Lack of Conservation Awareness:",
+                      "p": "Insufficient awareness about the importance of leopard conservation and the need for coexistence with these predators can contribute to the challenges they face."
+                    }
+                  ],
+                  "p": "Conservation efforts often involve addressing these threats through habitat protection, community-based conservation programs, education, anti-poaching initiatives, and sustainable development practices. It's important to consult the latest sources for the most up-to-date information on the status and threats facing the Sri Lankan leopard. Conservation organizations and governmental bodies play a crucial role in developing and implementing strategies to mitigate these threats and ensure the long-term survival of the species."
+                }
+              }
+            }
+          }
+        },
+        {
+          "class": "sect7",
+          "content": {
+            "row": {
+              "left": {
+                "img": "./Sri lankan leopard/baby lep.jpg",
+                "class": ""
+              },
+              "right": {
+                "content": {
+                  "ul": [
+                    {
+                      "li": "Road Mortality:",
+                      "p": "Increased road networks, especially through leopard habitats, can lead to road mortality. Leopards may be hit by vehicles when attempting to cross roads, resulting in injuries or fatalities."
+                    },
+                    {
+                      "li": "Climate Change:",
+                      "p": "Changes in climate patterns can affect the availability of water and prey, influencing the distribution and behavior of leopards. Climate change can also lead to alterations in vegetation and impact overall ecosystem health."
+                    },
+                    {
+                      "li": "Lack of Conservation Awareness:",
+                      "p": "Insufficient awareness about the importance of leopard conservation and the need for coexistence with these predators can contribute to the challenges they face."
+                    }
+                  ],
+                  "p": "Conservation efforts often involve addressing these threats through habitat protection, community-based conservation programs, education, anti-poaching initiatives, and sustainable development practices. It's important to consult the latest sources for the most up-to-date information on the status and threats facing the Sri Lankan leopard. Conservation organizations and governmental bodies play a crucial role in developing and implementing strategies to mitigate these threats and ensure the long-term survival of the species."
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+  

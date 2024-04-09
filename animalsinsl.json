@@ -1,0 +1,99 @@
+{
+    "main": {
+      "sections": [
+        {
+          "class": "sectback",
+          "content": {
+            "row": {
+              "left": {
+                "img": "./animals page/country sri lanka.webp",
+                "class": "backpic"
+              },
+              "right": {
+                "content": {
+                  "h1": "Introduction to animals in Sri Lanka...",
+                  "p": [
+                    "Sri Lanka, a biodiversity hotspot, is home to a variety of unique and fascinating animals. The Sri Lankan elephant, Elephas maximus maximus, is an iconic species found throughout the island's national parks and forests. These gentle giants, revered in Sri Lankan culture, face threats from habitat loss and human-wildlife conflict, making conservation efforts essential for their survival.",
+                    "One of the island's elusive residents is the Sri Lankan leopard, Panthera pardus kotiya. Endemic to Sri Lanka, these big cats are known for their distinctive golden coat adorned with dark rosettes. Yala National Park serves as a prime location for spotting these leopards in their natural habitat, though they are endangered due to habitat fragmentation and poaching, emphasizing the importance of conservation measures.",
+                    "Among Sri Lanka's avian wonders is the Sri Lanka blue magpie, Urocissa ornata. This endemic bird boasts a stunning blue plumage and long tail feathers, and it can be found in the central and southern hills of the island. Conservation initiatives focus on preserving the diverse ecosystems that support Sri Lanka's birdlife, addressing threats such as habitat destruction and climate change to ensure the continued vibrancy of these feathered inhabitants."
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "class": "sect1",
+          "content": {
+            "card-container": {
+              "cards": [
+                {
+                  "img": "./animals page/elephant.jpg",
+                  "card-content": {
+                    "h3": "Sri Lankan Elephant",
+                    "p": "The Sri Lankan elephant (Elephas maximus maximus) is one of three recognized subspecies of the Asian elephant. Native to Sri Lanka, an island country in South Asia, these elephants are smaller in size compared to their mainland Asian counterparts. They are characterized by relatively smaller ears, a rounded back, and a gentle disposition.",
+                    "link": {
+                      "href": "elephant.html",
+                      "text": "Read more",
+                      "class": "btn"
+                    }
+                  }
+                },
+                {
+                  "img": "./animals page/sloth.jpg",
+                  "card-content": {
+                    "h3": "The Sloth Bear",
+                    "p": "The Sri Lankan sloth bear (Melursus ursinus inornatus) is a subspecies of the sloth bear native to the island of Sri Lanka. Characterized by a shaggy coat, distinctive white V-shaped markings on their chest, and a long, flexible snout, these bears are well-adapted for their omnivorous diet, which includes insects, fruits, and occasionally small mammals.",
+                    "link": {
+                      "href": "sloth.html",
+                      "text": "Read more",
+                      "class": "btn"
+                    }
+                  }
+                },
+                {
+                  "img": "./animals page/loris.jpg",
+                  "card-content": {
+                    "h3": "Red Slender Loris",
+                    "p": "The Sri Lankan red slender loris (Loris tardigradus tardigradus) is a small, nocturnal primate native to Sri Lanka. Recognized for its distinctive appearance, this slender loris species has a reddish-brown fur coat, large round eyes, and long limbs. It belongs to the primate family Lorisidae and is arboreal, spending most of its life in trees.",
+                    "link": {
+                      "href": "loris.html",
+                      "text": "Read more",
+                      "class": "btn"
+                    }
+                  }
+                },
+                {
+                  "img": "./animals page/sl magpie.jpg",
+                  "card-content": {
+                    "h3": "Sri Lankan Blue Magpie",
+                    "p": "The Sri Lankan blue magpie (Urocissa ornata), also known as the Ceylon magpie, is a striking and colorful bird species endemic to the island of Sri Lanka. Recognized for its vibrant plumage, it has a combination of deep blue and chestnut-brown feathers, along with distinctive white markings on its wings and tail.",
+                    "link": {
+                      "href": "magpiesl.html",
+                      "text": "Read more",
+                      "class": "btn"
+                    }
+                  }
+                },
+                {
+                  "img": "./animals page/pit viper.jpg",
+                  "card-content": {
+                    "h3": "Green Pit Viper",
+                    "p": "The Sri Lankan green pit viper (Trimeresurus trigonocephalus) is a venomous snake species found in Sri Lanka and other parts of South Asia. Known for its striking coloration, this viper typically has bright green scales, which provide effective camouflage in the lush vegetation of its forest habitat.",
+                    "link": {
+                      "href": "pitviper.html",
+                      "text": "Read more",
+                      "class": "btn"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+  
+  
+  

@@ -1,0 +1,59 @@
+{
+    "body": {
+      "main": {
+        "sections": [
+          {
+            "class": "sect1",
+            "content": {
+              "h1": "We Protect the Biodiversity of Sri Lanka...",
+              "p": [
+                "The Department of Wildlife Conservation Conserves the Biodiversity of Sri Lanka. Every individual species is provided legal protection through the Fauna and Flora Protection Ordinance No 2 of 1937.",
+                "Habitats and the associated biodiversity are protected through a network of Protected Areas.",
+                "International Trade of Wild Species are Regulated both using the provisions Fauna and Flora Protection Ordinance a the Provisions of the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES)."
+              ]
+            }
+          },
+          {
+            "class": "sect2",
+            "content": {
+              "h1": "Our History...",
+              "p": [
+                "The first attempt to stop the destruction of wildlife resources of Sri Lanka was made in 1889, by the Conservator of Forests , Colonel Clark, R.A,. He brought the disastrous effects of the commercial exploitation of wildlife resources in the country, to the notice of the Government of Ceylon and advocated immediate legislation which would forbid the destroying wild animals, for the export of hides. His successor in office, Mr. A.F. Broun continued the agitation and persuaded the Government to pass two Ordinances, titled “An Ordinance to prevent the wanton destruction of elephants, buffaloes and other game” and “An Ordinance to readjust the customs duties leviable on firearms and to impose an export duty on certain hides and horns”.",
+                "The challenge in the hands of the Department of Wildlife Conservation from 1960 onwards was to ensure the protection of wildlife resources against the large scale multi-purpose development projects implemented in the country. A string of wildlife protected areas was established in the Mahaweli region, with the objective of providing shelter for the wild animal populations, especially the wild elephants, displaced due to large scale forest clearings under the accelerated Mahaweli Development Project. United States Agency for International Development (USAID) provided financial assistance through a special project titled Mahaweli Environmental Project(MEP), for the establishment and development of these protected areas."
+              ]
+            }
+          },
+          {
+            "class": "sect3",
+            "content": {
+              "h1": "CITES Convention",
+              "p": [
+                "CITES (the Convention on International Trade in Endangered Species of Wild Fauna and Flora) is an international agreement between governments. Its aim is to ensure that international trade in specimens of wild animals and plants does not threaten their survival.",
+                "Widespread information nowadays about the endangered status of many prominent species, such as the tiger and elephants, might make the need for such a convention seem obvious. But at the time when the ideas for CITES were first formed, in the 1960s, international discussion of the regulation of wildlife trade for conservation purposes was something relatively new. With hindsight, the need for CITES is clear. Annually, international wildlife trade is estimated to be worth billions of dollars and to include hundreds of millions of plant and animal specimens. The trade is diverse, ranging from live animals and plants to a vast array of wildlife products derived from them, including food products, exotic leather goods, wooden musical instruments, timber, tourist curios and medicines. Levels of exploitation of some animal and plant species are high and the trade in them, together with other factors, such as habitat loss, is capable of heavily depleting their populations and even bringing some species close to extinction. Many wildlife species in trade are not endangered, but the existence of an agreement to ensure the sustainability of the trade is important in order to safeguard these resources for the future."
+              ]
+            }
+          },
+          {
+            "class": "sect4",
+            "content": {
+              "h1": "Our Services...",
+              "p": [
+                "Welcome to Department of Wildlife Conservation, where passion for conservation meets unparalleled expertise in safeguarding Sri Lanka's most precious creatures. Our services are dedicated to the preservation of biodiversity and the protection of endangered species in Sri Lanka. Immerse yourself in our guided wildlife tours, led by seasoned naturalists who share their wealth of knowledge about the intricate ecosystems that support a myriad of fauna. Join us in our commitment to wildlife research and conservation projects, contributing to the ongoing efforts to ensure a sustainable future for our planet's diverse inhabitants. Whether you're a wildlife enthusiast, a student of nature, or a conservation advocate, our services offer unique opportunities for hands-on experiences, education, and active involvement in the vital mission of protecting and celebrating the wonders of the natural world. Together, let's make a difference for wildlife and nurture a harmonious coexistence between humans and the extraordinary creatures that share our planet..."
+              ]
+            }
+          },
+          {
+            "class": "sect5",
+            "content": {
+              "h1": "About Us...",
+              "p": [
+                "The first attempt to stop the destruction of wildlife resources of Sri Lanka was made in 1889, by the Conservator of Forests , Colonel Clark, R.A,. He brought the disastrous effects of the commercial exploitation of wildlife resources in the country, to the notice of the Government of Ceylon and advocated immediate legislation which would forbid the destroying wild animals, for the export of hides. His successor in office, Mr. A.F. Broun continued the agitation and persuaded the Government to pass two Ordinances, titled “An Ordinance to prevent the wanton destruction of elephants, buffaloes and other game” and “An Ordinance to readjust the customs duties leviable on firearms and to impose an export duty on certain hides and horns”."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+  
+ 

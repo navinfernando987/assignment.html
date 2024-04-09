@@ -1,0 +1,108 @@
+{
+    "main": {
+      "sections": [
+        {
+          "class": "sectback",
+          "content": {
+            "row": {
+              "left": {
+                "img": "./nparks/yaala entrancee.webp",
+                "class": ""
+              },
+              "right": {
+                "content": {
+                  "h2": "Yala National Park",
+                  "p": [
+                    "Yala National Park, located in the southeastern corner of Sri Lanka, is a captivating natural sanctuary renowned for its diverse ecosystems and rich biodiversity. Encompassing an expansive area of approximately 979 square kilometers, Yala stands as the country's second-largest national park and offers a unique and immersive experience for wildlife enthusiasts.",
+                    "The park showcases a mosaic of landscapes, including lush moist monsoon forests, dry monsoon forests, semi-deciduous forests, thorn forests, and sprawling grasslands. This diverse habitat provides a haven for a wide array of flora and fauna, making Yala a haven for nature lovers.",
+                    "Yala National Park is especially celebrated for its remarkable leopard population, boasting one of the highest densities of these elusive big cats in the world. Visitors to the park may witness these majestic creatures in their natural habitat, along with other iconic wildlife such as elephants, sloth bears, crocodiles, various species of deer, and water buffaloes."
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "class": "sect1",
+          "content": {
+            "row": {
+              "left": {
+                "img": "./nparks/asian-elephant-2.jpg",
+                "class": ""
+              },
+              "right": {
+                "content": {
+                  "h2": "Interesting facts about yala...",
+                  "ul": [
+                    {
+                      "li": "Location and Size:",
+                      "p": "Yala National Park is situated in the Hambantota district of the Southern Province and spans an area of approximately 979 square kilometers."
+                    },
+                    {
+                      "li": "Biodiversity:",
+                      "p": "The park is home to a wide variety of ecosystems, including moist monsoon forests, dry monsoon forests, semi deciduous forests, thorn forests, and grasslands. Yala boasts a rich biodiversity with numerous species of mammals, birds, reptiles, amphibians, and fish."
+                    },
+                    {
+                      "li": "Wildlife:",
+                      "p": "One of the main attractions of Yala is its leopard population. It has one of the highest densities of leopards in the world. Other wildlife species that can be spotted in the park include elephants, sloth bears, crocodiles, various species of deer, water buffaloes, and a wide array of bird species."
+                    },
+                    {
+                      "li": "Conservation Significance:",
+                      "p": "Conservation initiatives are in place to protect the delicate ecosystems within the park and ensure the sustainability of its wildlife populations."
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "class": "sect2",
+          "content": {
+            "row": {
+              "left": {
+                "iframe": {
+                  "width": "600",
+                  "height": "450",
+                  "style": "border:0",
+                  "loading": "lazy",
+                  "allowfullscreen": true,
+                  "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.454458000831!2d81.46930977585478!3d6.46396662385051!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae5d3a62ffb9359%3A0x3bb623d70b5a3314!2sYala%20National%20Park!5e0!3m2!1sen!2slk!4v1705609341804!5m2!1sen!2slk"
+                }
+              },
+              "right": {
+                "content": {
+                  "h2": "Visit Yala National Park...",
+                  "ul": [
+                    {
+                      "li": "Best known for:",
+                      "p": "Leopards,Asian Elephants."
+                    },
+                    {
+                      "li": "Area covered:",
+                      "p": "378 sqr. miles"
+                    },
+                    {
+                      "li": "Distance from Colombo:",
+                      "p": "6 hours drive"
+                    },
+                    {
+                      "li": "Things to do:",
+                      "p": "Go surfing at Arugam Bay"
+                    }
+                  ],
+                  "p": "Visit our website: ",
+                  "a": {
+                    "href": "https://www.yalasrilanka.lk/",
+                    "target": "_blank",
+                    "content": "https://www.yalasrilanka.lk/"
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+  
